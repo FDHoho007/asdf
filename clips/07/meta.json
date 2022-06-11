@@ -1,0 +1,36 @@
+{
+  "de": {
+    "01": {"transcript": "Hey, was hast du zum Geburtstag bekommen? Ein neues Alter! Ist ja komisch!","tags": ["geburtstag"]},
+    "02": {"transcript": "Wollen wir Fang das Messer spielen? Klar! Mann, bin ich schlecht in dem Spiel!","tags": ["messer"]},
+    "03": {"transcript": "Mam, ich fürchte ich hab ihren Sohn erwischt bei den ... Hausaufgaben! Was hab ich nur falsch gemacht?","tags": ["hausaufgaben"]},
+    "04": {"transcript": "Hey Joey, willst du mich essen? Nein danke, Mister Muffin! Aber ich will sterben!","tags": ["muffin"]},
+    "05": {"transcript": "Hey Stacey, willst du mit mir auf den Ball gehen? Ähm, tschuldigung aber ich bin ein Geist. Aber du lebst doch noch. Tschau Brian!","tags": ["ball","pistole"]},
+    "06": {"transcript": "Hey Kumpel, wollen wir das draußen klären? Jo! Wow, was für ein schöner Abend! War ech tne tolle Idee!","tags": []},
+    "07": {"transcript": "Spring nicht, das Leben lohnt sich! Everybody do the flop!","tags": []},
+    "08": {"transcript": "Ich bin so vollgefressen! Willst du noch nen Muffin? Nein! Warum will mich keiner töten?","tags": ["muffin"]},
+    "09": {"transcript": "Hey baby, bist du ein Engel? Denn ich bin allergisch gegen Federn!","tags": ["engel"]},
+    "10": {"transcript": "Du bist fett!","tags": ["sonne"]},
+    "11": {"transcript": "Ich bin ein echt großer Zwerg!","tags": []},
+    "12": {"transcript": "Na alter, schau nicht so traurig! Mundwinkel nach oben! Okay!","tags": []},
+    "13": {"transcript": "Desmond, der Mondbär! Ende!","tags": ["mondbär"]},
+    "14": {"transcript": "","tags": ["farbe"]},
+    "15": {"transcript": "","tags": ["farbe"]}
+  },
+  "en": {
+    "01": {"transcript": "","tags": []},
+    "02": {"transcript": "","tags": []},
+    "03": {"transcript": "","tags": []},
+    "04": {"transcript": "","tags": []},
+    "05": {"transcript": "","tags": []},
+    "06": {"transcript": "","tags": []},
+    "07": {"transcript": "","tags": []},
+    "08": {"transcript": "","tags": []},
+    "09": {"transcript": "","tags": []},
+    "10": {"transcript": "","tags": []},
+    "11": {"transcript": "","tags": []},
+    "12": {"transcript": "","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "","tags": []},
+    "15": {"transcript": "","tags": []}
+  }
+}

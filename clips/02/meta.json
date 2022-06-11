@@ -1,0 +1,113 @@
+{
+  "de": {
+    "01": {
+      "transcript": "Ich hab dir nen Kuchen gemacht! Oh Junge! Was fürn Geschmack denn? Kuchengeschmack!",
+      "tags": [
+        "kuchen",
+        "kuchengeschmack"
+      ]
+    },
+    "02": {
+      "transcript": "Ich mag singen! Ich mag tanzen! Ich mag Züge!",
+      "tags": [
+        "züge"
+      ]
+    },
+    "03": {
+      "transcript": "Hey, da steht naiv an der Decke! Oh, tatsächlich! Oh, du hast meine Lunge geklaut!",
+      "tags": [
+        "naiv",
+        "lunge"
+      ]
+    },
+    "04": {
+      "transcript": "Stirb Kartoffel! Heute nicht!",
+      "tags": [
+        "Kartoffel"
+      ]
+    },
+    "05": {
+      "transcript": "Haha! Sie sagten ich könnte niemals einem Lama das Fahren beibringen. Nein Lama, nein!",
+      "tags": [
+        "lama",
+        "auto"
+      ]
+    },
+    "06": {
+      "transcript": "Doktor, ich glaub ich bin homosexuell. Wie kommen sie darauf? Regenbogen",
+      "tags": [
+        "homosexuell",
+        "schwul",
+        "regenbogen"
+      ]
+    },
+    "07": {
+      "transcript": "Was bist du? Ein Mann oder eine Maus?",
+      "tags": [
+        "pferd"
+      ]
+    },
+    "08": {
+      "transcript": "Hey Kinder, ich hab euch Kekse gemacht. Ja! Ich mag Züge!",
+      "tags": [
+        "kekse",
+        "züge"
+      ]
+    },
+    "09": {
+      "transcript": "Desmond, der Mondbär. Wie bin ich hier her gekommen? Ende",
+      "tags": [
+        "desmond",
+        "mondbär"
+      ]
+    },
+    "10": {
+      "transcript": "Hahaha! Ich kann nicht lesen!",
+      "tags": [
+        "lesen"
+      ]
+    },
+    "11": {
+      "transcript": "Kätzchenschlacht! Nein warte, ich bin allergisch gegen Niedlichkeit! Ohh!",
+      "tags": [
+        "kätzchenschlacht"
+      ]
+    },
+    "12": {
+      "transcript": "Was ist denn mit dir mein Sohn? Ich mag Züge! Hahaha ja das tust du!",
+      "tags": [
+        "züge"
+      ]
+    },
+    "13": {
+      "transcript": "Hey weißt du wer schwul ist?",
+      "tags": [
+        "schwul",
+        "züge"
+      ]
+    },
+    "14": {
+      "transcript": "Ich kanns kaum abwarten diesen Bagle zu essen. Doch das kannst du. Ja ich denke du hast Recht.",
+      "tags": [
+        "bagle",
+        "abwarten"
+      ]
+    }
+  },
+  "en": {
+    "01": {"transcript": "","tags": []},
+    "02": {"transcript": "","tags": []},
+    "03": {"transcript": "","tags": []},
+    "04": {"transcript": "","tags": []},
+    "05": {"transcript": "","tags": []},
+    "06": {"transcript": "","tags": []},
+    "07": {"transcript": "","tags": []},
+    "08": {"transcript": "","tags": []},
+    "09": {"transcript": "","tags": []},
+    "10": {"transcript": "","tags": []},
+    "11": {"transcript": "","tags": []},
+    "12": {"transcript": "","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "","tags": []}
+  }
+}

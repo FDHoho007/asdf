@@ -1,0 +1,123 @@
+{
+  "de": {
+    "01": {
+      "transcript": "Ich werde ein Internet machen! Oh! Nun ich werde ein Buch machen! Oh!",
+      "tags": [
+        "internet",
+        "buch"
+      ]
+    },
+    "02": {
+      "transcript": "Die Wissenschaftsshow! Klaviere! Wessen Idee war das?",
+      "tags": [
+        "klaviere"
+      ]
+    },
+    "03": {
+      "transcript": "Das ist ein Überfall",
+      "tags": [
+        "überfall",
+        "telefon"
+      ]
+    },
+    "04": {
+      "transcript": "Oh!",
+      "tags": [
+        "häuten",
+        "kostüm"
+      ]
+    },
+    "05": {
+      "transcript": "Hey, du! Skaten ist hier tabu! Schnauze, mann! Dich hat keiner gefragt!",
+      "tags": [
+        "skaten",
+        "mine"
+      ]
+    },
+    "06": {
+      "transcript": "Ich möchte ein Kuchen sein! Billy, nein!",
+      "tags": [
+        "kuchen"
+      ]
+    },
+    "07": {
+      "transcript": "Netter Hut! Dankeschön! Das war sarkastisch gemeint. Ja, ich hab dein Gesicht geklaut.",
+      "tags": [
+        "sarkastisch",
+        "gesicht",
+        "hut"
+      ]
+    },
+    "08": {
+      "transcript": "Schatz, magst du meine neuen Schuhe? Du bist ein Stuhl liebstes! Ich kann träumen Harold!",
+      "tags": [
+        "schuhe",
+        "stuhl"
+      ]
+    },
+    "09": {
+      "transcript": "Es hat funktioniert! Meine Zeitmaschine funktioniert! Ich bin ein Stegosaurus!",
+      "tags": [
+        "zeitmaschine",
+        "stegosaurus"
+      ]
+    },
+    "10": {
+      "transcript": "Schnell, schieß mir ins Gesicht!",
+      "tags": [
+        "gesicht",
+        "pistole"
+      ]
+    },
+    "11": {
+      "transcript": "Du wirst ausgeraubt, Kleiner! Nö du wirst ausgeraubt! Ohh, wie zur Hölle funktioniert das überhaupt?",
+      "tags": [
+        "überfall",
+        "pistole"
+      ]
+    },
+    "12": {
+      "transcript": "Hey Sohn, fang! Okay Papa ich hab ihn ich hab.",
+      "tags": [
+        "ball"
+      ]
+    },
+    "13": {
+      "transcript": "Bananenkampf! Nein!",
+      "tags": [
+        "banane",
+        "bananenkampf"
+      ]
+    },
+    "14": {
+      "transcript": "Alienangriff! Werft den Käse! Yay!",
+      "tags": [
+        "alien",
+        "käse"
+      ]
+    },
+    "15": {
+      "transcript": "Wenn ich groß bin will ich zum Mond fliegen. Haha warum warten?",
+      "tags": [
+        "mond"
+      ]
+    }
+  },
+  "en": {
+    "01": {"transcript": "","tags": []},
+    "02": {"transcript": "","tags": []},
+    "03": {"transcript": "","tags": []},
+    "04": {"transcript": "","tags": []},
+    "05": {"transcript": "","tags": []},
+    "06": {"transcript": "","tags": []},
+    "07": {"transcript": "","tags": []},
+    "08": {"transcript": "","tags": []},
+    "09": {"transcript": "","tags": []},
+    "10": {"transcript": "","tags": []},
+    "11": {"transcript": "","tags": []},
+    "12": {"transcript": "","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "","tags": []},
+    "15": {"transcript": "","tags": []}
+  }
+}

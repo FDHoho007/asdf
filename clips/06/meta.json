@@ -1,0 +1,36 @@
+{
+  "de": {
+    "01": {"transcript": "Ich schlage dein Gesicht, ins Gesicht!","tags": ["gesicht"]},
+    "02": {"transcript": "Herzlich willkommen im Stehunterricht! Und durchgefallen!","tags": ["stehunterricht"]},
+    "03": {"transcript": "Hey hast du ne Lizenz dafür? Du kriegst mich niemals lebend!","tags": ["trompete"]},
+    "04": {"transcript": "Klopf, klopf! Wer ist da? Die Tür!","tags": ["tür"]},
+    "05": {"transcript": "Hey wusstest du, dass Karotten gut für deine Augen sind? Du Lügner!","tags": ["karotten","augen"]},
+    "06": {"transcript": "Hallo, hallo, hallo! Hallo! Oh, nein!","tags": ["minenschildkröte"]},
+    "07": {"transcript": "Oh, ein kleiner Hund! Oh, pass auf Schatz, er hat ein Messer! Äh was, nene ich hab keins, ne!","tags": ["hund","messer"]},
+    "08": {"transcript": "Everybody do the flop!","tags": []},
+    "09": {"transcript": "Hallo Burger! Ich war mal ne Kuh! Oh!","tags": ["burger","kuh"]},
+    "11": {"transcript": "Magisches Pferd, es ist ein Magisches Pferd! Es fliegt im Himmel yeah! Bringen sie es zur Strecke!","tags": ["pferd"]},
+    "13": {"transcript": "Was malst du da, Kleines? Ich mal ein Bär!","tags": ["bär"]},
+    "14": {"transcript": "Schnell, denk nicht an Katzen!","tags": ["katzen"]},
+    "15": {"transcript": "Hier kommt das Flugzeug!","tags": ["flugzeug"]},
+    "16": {"transcript": "Ist irgendjemand hier ein Arzt? Ich bin einer! Du verdammter Streber!","tags": ["arzt"]}
+  },
+  "en": {
+    "01": {"transcript": "","tags": []},
+    "02": {"transcript": "","tags": []},
+    "03": {"transcript": "","tags": []},
+    "04": {"transcript": "","tags": []},
+    "05": {"transcript": "","tags": []},
+    "06": {"transcript": "","tags": []},
+    "07": {"transcript": "","tags": []},
+    "08": {"transcript": "","tags": []},
+    "09": {"transcript": "","tags": []},
+    "10": {"transcript": "","tags": []},
+    "11": {"transcript": "","tags": []},
+    "12": {"transcript": "","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "","tags": []},
+    "15": {"transcript": "","tags": []},
+    "16": {"transcript": "","tags": []}
+  }
+}

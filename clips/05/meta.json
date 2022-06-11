@@ -1,0 +1,34 @@
+{
+  "de": {
+    "01": {"transcript": "Hey Bobby, spiel mir den Treppenfall Blues! Aber klar, Johnny! Ich liebe es!","tags": ["treppe","klavier"]},
+    "02": {"transcript": "Es ist so schön hier draußen. Ja nur du, ich und der Mond. Hey geh ran, Alter!","tags": ["date","mond"]},
+    "03": {"transcript": "Sir, es scheint als hätten sie einen sehr ernsten Fall von: Babystimme","tags": ["doktor", "babystimme"]},
+    "04": {"transcript": "Hallo Minenschildkröte! Hallo!","tags": ["minenschildkröte"]},
+    "05": {"transcript": "Hey Mann, willst du Videospiele spielen? Niemals, Alter! Du schlägst mich immer! Sag es niemandem!","tags": ["videospiele"]},
+    "06": {"transcript": "Oh, ok!","tags": ["felsvorsprung"]},
+    "07": {"transcript": "Oh Mann, gehen dir die Muffins nie aus? No, ich arbeite in einer Muffinfabrik.","tags": ["muffin"]},
+    "08": {"transcript": "Ich frag mich ob ein Pony fliegen kann. Oh!","tags": ["pferd"]},
+    "09": {"transcript": "Und nun: Enten. Quack! Das wollte ich auch grad sagen. Was wirklich? Ja ernsthaft! Das ist gruselig. Wir harmonieren total.","tags": []},
+    "10": {"transcript": "Mami, Mami, guck die Schildkröte! Hallo!","tags": ["minenschildkröte"]},
+    "11": {"transcript": "Hier halt das mal!","tags": ["messer"]},
+    "12": {"transcript": "Ich schlag dir ins Gesicht! Aber es ist Gegenteiltag. Oh nein!","tags": ["gesicht"]},
+    "13": {"transcript": "Oh nein, ich werd nicht auf dich drauf treten! Hallo!","tags": ["minenschildkröte"]},
+    "14": {"transcript": "Findest du nicht der ganze Quack wird langsam langweilig? Ich auch nicht.","tags": ["enten"]}
+  },
+  "en": {
+    "01": {"transcript": "","tags": []},
+    "02": {"transcript": "","tags": []},
+    "03": {"transcript": "","tags": []},
+    "04": {"transcript": "","tags": []},
+    "05": {"transcript": "","tags": []},
+    "06": {"transcript": "","tags": []},
+    "07": {"transcript": "","tags": []},
+    "08": {"transcript": "","tags": []},
+    "09": {"transcript": "","tags": []},
+    "10": {"transcript": "","tags": []},
+    "11": {"transcript": "","tags": []},
+    "12": {"transcript": "","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "","tags": []}
+  }
+}

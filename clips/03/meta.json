@@ -1,0 +1,104 @@
+{
+  "de": {
+    "01": {
+      "transcript": "Zieh dir meinen neuen Hund rein. Oh wow. Oh da ist ja gar kein Hund. Oh! Oh!",
+      "tags": [
+        "hund"
+      ]
+    },
+    "02": {
+      "transcript": "Joey hast du mein Sandwich gegessen? Ich bin dein Sandwich!",
+      "tags": [
+        "sandwich"
+      ]
+    },
+    "03": {
+      "transcript": "Hier halt mal! Danke!",
+      "tags": [
+        "bombe"
+      ]
+    },
+    "04": {
+      "transcript": "Was ist dein Problem? Hör auf damit! Was soll das? Ich will das nicht!",
+      "tags": [
+        "salat"
+      ]
+    },
+    "05": {
+      "transcript": "Pff, scheiß auf Schwerkraft!",
+      "tags": []
+    },
+    "06": {
+      "transcript": "Machs gut Welt! Okey Jim, man sieht sich. Wo gehst du hin?",
+      "tags": [
+        "pistole"
+      ]
+    },
+    "07": {
+      "transcript": "Da ist etwas auf deinem Gesicht. Es war Schmerz!",
+      "tags": [
+        "gesicht"
+      ]
+    },
+    "08": {
+      "transcript": "Warum passiert das nur? Welchen Grund hast du? Ich schlage deinen Salat!",
+      "tags": [
+        "salat"
+      ]
+    },
+    "09": {
+      "transcript": "Okay Sohn, berühre nicht diesen Kaktus! Du bist für mich gestorben!",
+      "tags": [
+        "kaktus"
+      ]
+    },
+    "10": {
+      "transcript": "Schatz, wieso ist das Baby am brennen? Kauf mir mehr Schmuck!",
+      "tags": [
+        "baby",
+        "schmuck"
+      ]
+    },
+    "11": {
+      "transcript": "Denk nicht mal dran!",
+      "tags": [
+        "klo"
+      ]
+    },
+    "12": {
+      "transcript": "",
+      "tags": [
+        "salat"
+      ]
+    },
+    "13": {
+      "transcript": "Hey Leute, zieht euch meine neue Kamera rein! Wow des ist gar keine Kamera!",
+      "tags": [
+        "pistole"
+      ]
+    },
+    "14": {
+      "transcript": "Stirb Kartoffel! Nein! Ich mag Züge! Oh nein, warte!",
+      "tags": [
+        "kartoffel",
+        "züge"
+      ]
+    }
+  },
+  "en": {
+    "01": {"transcript": "","tags": []},
+    "02": {"transcript": "","tags": []},
+    "03": {"transcript": "","tags": []},
+    "04": {"transcript": "","tags": []},
+    "05": {"transcript": "","tags": []},
+    "06": {"transcript": "","tags": []},
+    "07": {"transcript": "","tags": []},
+    "08": {"transcript": "","tags": []},
+    "09": {"transcript": "","tags": []},
+    "10": {"transcript": "","tags": []},
+    "11": {"transcript": "","tags": []},
+    "12": {"transcript": "","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "","tags": []}
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "de": {
+    "01": {"transcript": "Jimmy, es ist an der Zeit ... Ja Mutter. Mit ihm Gassi zu gehen, Jimmy!","tags": []},
+    "02": {"transcript": "Was für ein schöner Tag hier lang zu spazieren und wenn ich aufhör zu singen werd ich explodieren. Hey Steven! Was hast du getan?","tags": []},
+    "03": {"transcript": "Naw, wie heißt er denn? Er heißt David. Hallo, ich bin David!","tags": []},
+    "04": {"transcript": "Kann Susie zum spielen rauskommen? Klar! Yay!","tags": []},
+    "05": {"transcript": "Papa, ich bin hungrig. Hi hungrig, ich bin Papa. Warum hast du mir diesen Namen gegeben?","tags": []},
+    "06": {"transcript": "Du wirst sterben. Wir werden alle sterben.","tags": []},
+    "07": {"transcript": "","tags": ["banane"]},
+    "08": {"transcript": "Oh ein Schmetterling. Schatzi, nein! Sie ist jetzt mein John.","tags": []},
+    "09": {"transcript": "Bist du hungrig? Nein ich bin wahnsinnig!","tags": []},
+    "10": {"transcript": "","tags": ["treppe"]},
+    "11": {"transcript": "Entschuldigung, wollen sie das essen? Nein! Sie könnens ja haben. Danke!","tags": []},
+    "12": {"transcript": "Ich mag Züge!","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "Schatz, ich bin schwanger! Ich kann das erklären.","tags": []},
+    "15": {"transcript": "Ich denke wir sollten nur Freunde sein. Mutter!","tags": []},
+    "16": {"transcript": "Uh ich frag mich was der macht. Ha ich bin jetzt schwul. Ha.","tags": []},
+    "17": {"transcript": "Hey willst du mal mich als meinen Vater sehen? Klar. Haha, Comedy!","tags": []}
+  },
+  "en": {
+    "01": {"transcript": "","tags": []},
+    "02": {"transcript": "","tags": []},
+    "03": {"transcript": "","tags": []},
+    "04": {"transcript": "","tags": []},
+    "05": {"transcript": "","tags": []},
+    "06": {"transcript": "","tags": []},
+    "07": {"transcript": "","tags": []},
+    "08": {"transcript": "","tags": []},
+    "09": {"transcript": "","tags": []},
+    "10": {"transcript": "","tags": []},
+    "11": {"transcript": "","tags": []},
+    "12": {"transcript": "","tags": []},
+    "13": {"transcript": "","tags": []},
+    "14": {"transcript": "","tags": []},
+    "15": {"transcript": "","tags": []},
+    "16": {"transcript": "","tags": []},
+    "17": {"transcript": "","tags": []}
+  }
+}

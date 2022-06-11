@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Ginto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #36393f;
+    color: #ffffff;
+    text-align: center;
+}
+
+header {
+    margin-top: 4rem;
+}
+
+a {
+    color: white;
+}
+
+a[href^="https://github.com/"] {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+}
+
+button, select, input {
+    border: none;
+    outline: none;
+    padding: 15px;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:active {
+    background: #3C45A5FF;
+}
+
+button, select {
+    background: #5865F2FF;
+}
+
+input {
+    height: 45px;
+    background: #27292e;
+    line-height: 40px;
+    padding: 10px;
+}
+
+#search {
+    width: 75%;
+    margin: auto;
+}
+
+#browser {
+    width: 66%;
+    margin: auto;
+}
+
+#browser .item {
+    display: inline-block;
+    margin: 20px;
+    padding: 12px;
+    background: #202225;
+    border-radius: 10px;
+    cursor: pointer;
+    max-width: calc(50% - 40px);
+}
+
+#browser img {
+    max-width: 100%;
+}
+
+#browser figcaption {
+    margin-top: 10px;
+}
+
+.overlay {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.95);
+    z-index: 10;
+}
+
+.overlay .inner {
+    background: #202225;
+    width: 66%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.overlay .inner video {
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    #search > * {
+        display: block;
+        width: calc(100% - 20px);
+    }
+
+    #browser {
+        width: 90%;
+    }
+
+    a[href^="https://github.com/"] {
+        top: 1.5rem;
+        right: 1.5rem;
+    }
+}

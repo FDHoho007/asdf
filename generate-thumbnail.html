@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <title>Generate Thumbnails</title>
+    <meta name="author" content="Fabian Dietrich">
+    <meta name="robots" content="nofollow, noindex">
+
+    <script>
+
+        function loadMovie() {
+            let video = document.getElementById("video");
+            video.src = "/clips/" + document.getElementById("clip").value + ".mp4";
+            setTimeout(generateThumbnail, 300);
+        }
+
+        function generateThumbnail() {
+            let video = document.getElementById("video");
+            let canvas = document.getElementById("canvas");
+            canvas.getContext("2d").drawImage(video, 0, 0, video.clientWidth, video.clientHeight);
+            document.getElementById("base64").value = canvas.toDataURL("image/png");
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+<form onsubmit="loadMovie(); return false;">
+    <input type="text" id="clip" value="01/en/01">
+    <button type="submit">Load Movie</button>
+    <button type="button" onclick="generateThumbnail();">Generate Thumbnail</button>
+</form>
+
+<video id="video" src="/clips/01/en/01.mp4" style="width: 300px;" controls></video>
+<br/>
+<canvas id="canvas"></canvas>
+<br/><br/>
+as Base64 URL: <input type="text" id="base64" readonly>
+
+</body>
+
+</html>
