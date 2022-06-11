@@ -14,8 +14,6 @@ function setItems(items) {
         let img = document.createElement("img");
         img.src = item.image;
         img.alt = "Preview Image";
-        img.width = 300;
-        img.height = 150;
         div.appendChild(img);
         let figcaption = document.createElement("figcaption");
         figcaption.innerText = item.title;
