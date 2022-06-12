@@ -66,9 +66,11 @@ self.addEventListener('install', (e) => {
 self.addEventListener('activate', (e) => {
     e.waitUntil(async () => {
         if ("navigationPreload" in self.registration) await self.registration.navigationPreload.enable();
+        // Delete all old caches
         caches.keys().then((keyList) => {
             return Promise.all(keyList.map((key) => {
                 let m;
+                // check if cache matches version number
                 if ((m = key.match(/^(assets|media)-v(\d{2})$/)) && m[2] === cacheVersion)
                     return;
                 return caches.delete(key);
@@ -80,8 +82,23 @@ self.addEventListener('activate', (e) => {
 
 self.addEventListener('fetch', (e) => {
     e.respondWith((async () => {
-        const cachedResponse = await caches.match(e.request);
-        if (cachedResponse) return cachedResponse;
+        let cachedResponse = await caches.match(e.request);
+        if (e.request.headers.get('range')) {
+            if (cachedResponse) {
+                let pos = Number(/^bytes\=(\d+)\-$/g.exec(e.request.headers.get('range'))[1]);
+                let ab = await cachedResponse.arrayBuffer();
+                return new Response(ab.slice(pos), {
+                    status: 206, statusText: 'Partial Content', headers: [// ['Content-Type', 'video/webm'],
+                        ['Content-Range', 'bytes ' + pos + '-' + (ab.byteLength - 1) + '/' + ab.byteLength]]
+                });
+            }
+        } else {
+            if (cachedResponse) return cachedResponse;
+            else if (e.request.url.startsWith("https://asdf.fdhoho007.de/?")) {
+                cachedResponse = await caches.match("/");
+                if (cachedResponse) return cachedResponse;
+            }
+        }
         const response = await e.preloadResponse;
         if (response) return response;
         return fetch(e.request);
